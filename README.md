@@ -84,12 +84,16 @@ Developed a four-page interactive dashboard:
 - Spending trends over time
 - Highest-spending drugs
 - Brand and generic spending composition
+- <img width="1176" height="660" alt="image" src="https://github.com/user-attachments/assets/f19d9a9e-75e4-4074-b2e9-4759efbb9e6c" />
+
 
 **Page 2 — Drug Lifecycle and Reliability**
 - Growing, declining, and stable drug patterns
 - Spending concentration
 - Reliable growth and decline indicators
 - Utilization-related metrics
+- <img width="1185" height="663" alt="image" src="https://github.com/user-attachments/assets/667c4fcb-0614-4dae-b9b3-59fd30bc3e48" />
+
 
 **Page 3 — Manufacturer Performance**
 - Manufacturer spending and rankings
@@ -97,11 +101,14 @@ Developed a four-page interactive dashboard:
 - High-growth manufacturers
 - Manufacturer dependence on individual products
 
+
+
 **Page 4 — Brand vs. Generic and Price-Change Analysis**
 - Brand and generic spending shares
 - Year-over-year trends
 - Average spending-per-unit trends
 - Reliable price-change indicators
+- <img width="1180" height="662" alt="image" src="https://github.com/user-attachments/assets/29a57c12-b3bd-4eb1-b6e1-8d8caf7e94c9" />
 
 ## Key Findings
 
