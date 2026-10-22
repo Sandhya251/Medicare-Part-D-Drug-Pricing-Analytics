@@ -168,21 +168,6 @@ The dashboard is intended as a **decision-support and prioritization tool**. It 
 - Incorporate rebate or net-spending information if a suitable source becomes available.
 - Add deeper manufacturer and competitor comparisons.
 
-## Repository Structure
-
-The repository can be organized as follows, depending on the files included in the published project:
-
-
-Medicare-Part-D-Drug-Pricing-Analytics/
-├── notebooks/
-│   └── EDA and data preparation notebooks
-├── sql/
-│   └── SQL analysis queries
-├── dashboard/
-│   └── Power BI dashboard (.pbix)
-├── README.md
-└── .gitignore
-```
 
 
 ## Conclusion
