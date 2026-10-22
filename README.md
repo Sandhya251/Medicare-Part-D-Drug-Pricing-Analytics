@@ -100,7 +100,7 @@ Developed a four-page interactive dashboard:
 - Manufacturer concentration
 - High-growth manufacturers
 - Manufacturer dependence on individual products
-
+- <img width="1182" height="665" alt="image" src="https://github.com/user-attachments/assets/ac6feeeb-e377-43a3-af85-b9abd33f989d" />
 
 
 **Page 4 — Brand vs. Generic and Price-Change Analysis**
